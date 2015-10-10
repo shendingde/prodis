@@ -1,3 +1,6 @@
 # 服务器打包等
 
-服务器基础系统： CentOS 6.7
+<table>
+    <tr><td></td></tr>
+    <tr><td></td></tr>
+</table>
