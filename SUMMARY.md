@@ -7,4 +7,5 @@
    * [服务器打包等](fu_wu_qi_da_bao_deng.md)
 * 组件
    * [anetd](HA)
+   * 高可用
 
