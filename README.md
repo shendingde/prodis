@@ -12,7 +12,6 @@
 
 
 
-
-             ##quant.s@foxmail.com
+##quant.s@foxmail.com
 
 
